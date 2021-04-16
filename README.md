@@ -1,2 +1,3 @@
 # deliveryserver
-A server responsible for managing and updating the location of deliveries on google maps in real time
+
+A server responsible for simulating the real-time location of multiple deliverers
